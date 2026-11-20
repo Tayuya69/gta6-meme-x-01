@@ -41,6 +41,18 @@ if (typeof url !== "string" || !url.startsWith("https://")) {
   fail("POST.json must hold a url starting with https://");
 }
 
+// The address has to point at an actual post on X, not just any https link:
+// https://x.com/<handle>/status/<digits> (or the twitter.com equivalent).
+// Anything else means the folio is pointing at the wrong place, so stop
+// here instead of handing a useless link to the grader.
+const postAddress =
+  /^https:\/\/(?:x\.com|twitter\.com)\/[^/\s]+\/status\/\d+$/;
+if (!postAddress.test(url)) {
+  fail(
+    `POST.json url is not a real X post address: ${url} — expected https://x.com/<handle>/status/<digits> or https://twitter.com/<handle>/status/<digits>`,
+  );
+}
+
 mkdirSync(outDir, { recursive: true });
 writeFileSync(destPath, contents);
-console.log(`Wrote ${destPath}`);
+console.log(`Validated X post ${url}; wrote ${destPath}`);
