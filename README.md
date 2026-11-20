@@ -102,3 +102,53 @@ non-refundable. Settled by my AI agent on make.fun.
 - Status: posted. `POST.json` holds the live post address for @bangjayHQ.
 
 Live post (v4): https://x.com/bangjayHQ/status/2123734832866037769
+
+## Making of the Divorce Decree (v4)
+
+### The joke
+
+v4 is a direct sequel to v2, not a fresh start.
+v2 was the marriage certificate, Till Delay Do Us Part,
+and it landed well, scoring 871,381 and reaching rank 40.
+v4 asks what comes next for that marriage.
+The answer is that it does not survive the wait.
+The marriage began on 17 September 2013,
+and after 4,812 days of waiting the petitioner finally files for divorce.
+The filing goes to the Leonida Family Court, Vice City Division,
+which gives the joke its formal frame.
+A court, a case number, and a decree turn a long delay
+into paperwork, and the paperwork is the punchline.
+The format stays solemn while the reason stays absurd:
+thirteen years of waiting for GTA VI, ended in a courtroom.
+
+### The numbers
+
+Case No. VI-2013-4812 sits at the top of the decree.
+The marriage date is 17 September 2013, in Vice City.
+The grounds are irreconcilable delay, stated plainly.
+The delay is counted as 4,812 days, not rounded or vague.
+The settlement starts with the game itself, priced at $79.99.
+Custody of the 120 GB download goes to the petitioner.
+Then comes the hardest line: 4,812 days of patience, non-refundable.
+Nothing about that wait can be claimed back.
+The total due at the bottom is $79.99, nothing more.
+Every figure on the page is exact, not invented for effect.
+From 17 September 2013 to 20 November 2026 is 4,812 days.
+The $79.99 is the price of the game itself.
+So the decree reads like a real settlement, because its numbers check out.
+
+### The design
+
+The make.fun ghost appears as the court seal on the decree.
+It is not pasted on the side; it belongs inside the document.
+A red diagonal stamp cuts across the page,
+reading SETTLED BY MY AI AGENT ON MAKE.FUN.
+That stamp is the signature of the whole piece.
+Under the decree sits the kicker line:
+THE MARRIAGE IS OVER. THE WAIT ISN'T.
+It closes the joke in one breath, after the legal detail.
+The document format is deliberate, and it is the pattern that works here.
+A formal paper, specific numbers, and the ghost woven into the document itself.
+The sell line lives inside the image, not outside it.
+That is what separates this from a scene illustration.
+A scene shows the wait; a paper like this files it, stamps it, and closes it.
