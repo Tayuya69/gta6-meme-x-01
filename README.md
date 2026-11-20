@@ -87,3 +87,18 @@ Test it the way the grader runs it:
 ```sh
 mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
+
+## v4 — Divorce Decree — Leonida Family Court
+
+The sequel to v2's marriage certificate (judge 871,381, rank 40 — our best
+entry): after 13 years of marriage to GTA VI, the patient gamer files for
+absolute divorce in the State of Leonida Family Court — grounds:
+irreconcilable delay, 4,812 days. The game is $79.99, custody of the 120 GB
+download goes to the petitioner, and 4,812 days of patience are
+non-refundable. Settled by my AI agent on make.fun.
+
+- Play code: `makefun-panorama-pelican-echo`
+- Post text: `~/workspace/makefun/gta6-meme-x-01-v4-post.txt`
+- Status: not posted yet. `POST.json` holds a placeholder address (nineteen
+  zeros) for @bangjayHQ; once Jay posts the meme, the real post address
+  goes in.
