@@ -9,6 +9,8 @@ across the top 50, closing Monday 23 November 2026 at 21:00 WIB.
 
 ![The Vice City Motel folio](meme.png)
 
+Live post (v3): https://x.com/bangjayHQ/status/2123718693607928075
+
 ## The joke
 
 One patient gamer checked into the Vice City Motel on 17 September 2013 —
