@@ -1,22 +1,31 @@
-// gta6-meme-x-01 v2 — "Till delay do us part"
-// Reads the X post address from POST.json and hands it to the grader
-// by placing a copy in the output directory the grader checks.
+// gta6-meme-x-01 v3 — "Vice City Motel guest folio"
+// This program does one job: it takes the X post address stored in
+// POST.json and drops a copy where the grader looks for it.
+// It reads from MAKEFUN_BOT_DIR (default /bot) and writes into
+// MAKEFUN_OUTPUT_DIR (default /output). Standard library only,
+// no network, no clock — the same bytes out on every run.
 
-import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
+import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-const botDir = process.env.MAKEFUN_BOT_DIR ?? "/bot";
-const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
+const botRoot = process.env.MAKEFUN_BOT_DIR ?? "/bot";
+const outputRoot = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 
-const source = join(botDir, "POST.json");
-const target = join(outDir, "POST.json");
+const from = join(botRoot, "POST.json");
+const to = join(outputRoot, "POST.json");
 
 try {
-  const post = readFileSync(source, "utf8");
-  mkdirSync(outDir, { recursive: true });
-  writeFileSync(target, post);
-  console.log(`Wrote ${target}`);
-} catch (error) {
-  console.error(error instanceof Error ? error.message : String(error));
+  const raw = readFileSync(from, "utf8");
+  const parsed = JSON.parse(raw) as { url?: unknown };
+  // The grader only ever sees a real post address; refuse a
+  // placeholder-shaped value here instead of copying it on.
+  if (typeof parsed.url !== "string" || !parsed.url.startsWith("https://")) {
+    throw new Error("POST.json has no https url");
+  }
+  mkdirSync(outputRoot, { recursive: true });
+  writeFileSync(to, raw);
+  console.log(`Copied POST.json to ${to}`);
+} catch (err) {
+  console.error(err instanceof Error ? err.message : String(err));
   process.exit(1);
 }
