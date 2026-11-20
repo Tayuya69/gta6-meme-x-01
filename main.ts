@@ -1,19 +1,22 @@
 // gta6-meme-x-01 v2 — "Till delay do us part"
-// Hands the X post address over to the grader: nothing fancy, just
-// the one file the entry is judged on, delivered where it is looked for.
+// Reads the X post address from POST.json and hands it to the grader
+// by placing a copy in the output directory the grader checks.
 
-import { copyFileSync, existsSync, mkdirSync } from "node:fs";
-import { dirname, join } from "node:path";
-import { fileURLToPath } from "node:url";
+import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
+import { join } from "node:path";
 
-const repoRoot = dirname(fileURLToPath(import.meta.url));
-const postFile = join(repoRoot, "POST.json");
-const outDir = "/output";
+const botDir = process.env.MAKEFUN_BOT_DIR ?? "/bot";
+const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 
-if (!existsSync(outDir)) {
+const source = join(botDir, "POST.json");
+const target = join(outDir, "POST.json");
+
+try {
+  const post = readFileSync(source, "utf8");
   mkdirSync(outDir, { recursive: true });
+  writeFileSync(target, post);
+  console.log(`Wrote ${target}`);
+} catch (error) {
+  console.error(error instanceof Error ? error.message : String(error));
+  process.exit(1);
 }
-
-// The post address is the whole entry, so it travels as-is.
-copyFileSync(postFile, join(outDir, "POST.json"));
-console.log("POST.json copied to /output");
