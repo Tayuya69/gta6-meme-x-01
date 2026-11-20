@@ -99,6 +99,6 @@ non-refundable. Settled by my AI agent on make.fun.
 
 - Play code: `makefun-panorama-pelican-echo`
 - Post text: `~/workspace/makefun/gta6-meme-x-01-v4-post.txt`
-- Status: not posted yet. `POST.json` holds a placeholder address (nineteen
-  zeros) for @bangjayHQ; once Jay posts the meme, the real post address
-  goes in.
+- Status: posted. `POST.json` holds the live post address for @bangjayHQ.
+
+Live post (v4): https://x.com/bangjayHQ/status/2123734832866037769
