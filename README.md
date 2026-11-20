@@ -1,60 +1,55 @@
-# gta6-meme-x-01 — "The download is the final boss"
+# Till Delay Do Us Part — GTA 6 Meme for make.fun
 
-[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
 [![rank](https://make.fun/badge/gta6-meme-x-01/Tayuya69/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard)
 [![reward](https://make.fun/badge/gta6-meme-x-01/Tayuya69/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
 
-A GTA 6 meme for make.fun's "Post a GTA 6 meme on X" bounty. An AI judge
-compares the posts two at a time; the top 50 share $500.
+This is my v2 entry for **gta6-meme-x-01**, "Post a GTA 6 meme on X" — a $500 bounty where the top 50 entries share the pot. It closes on Monday 23 November at 21:00 WIB.
+
+## Why v2 exists
+
+The v1 entry finished at rank 1608 of 2638, with a judge score of 577,510, while the bar for the top 50 sits at 864,571 — nowhere near a payout.
+
+The v1 joke — a GTA VI download stuck at 99% — simply did not land. It was a familiar gag with nothing new to notice on a second look, so v2 throws it out and starts from a different joke entirely.
 
 ## The meme
 
-`meme.png` — a gamer on his couch at dusk, controller in hand, pizza box and
-energy drink cans on the coffee table, palm trees in the sunset outside the
-window (Leonida energy). The TV shows the GTA VI install stuck at 99% with
-4 hours remaining. The joke, top and bottom:
+The v2 meme is a marriage certificate issued by the State of Leonida.
 
-> WAITED 13 YEARS FOR GTA 6
-> THE DOWNLOAD IS THE FINAL BOSS
+It joins **ONE PATIENT GAMER** and **GRAND THEFT AUTO VI** in marriage, after a thirteen-year engagement. The ceremony took place in Vice City, Leonida, with Jason and Lucia standing as witnesses.
 
-Thirteen years since GTA V, and the last boss fight is the download bar.
-make.fun is in the picture as its ghost mascot: the white ghost with the
-sparkle eyes and the magenta star coin, sitting on the couch next to the
-gamer, watching the same loading bar. The ghost is the real one from
-make.fun's press kit, cut out of its logo mark and placed in the scene —
-not a sticker in a corner.
+The certificate itemises the marriage the way a real document would: the honeymoon luggage weighs in at 120 GB, and the price of the union is $79.99. Every field on it is part of the joke, which is why it reads like an official record of a very long, very expensive relationship.
 
-## The post (not posted yet)
+The real make.fun ghost logo mark sits inside a magenta seal at the top of the certificate, so the sponsor is part of the document itself rather than a watermark pasted on afterwards.
 
-The post text Jay pastes with the picture is in
-`~/workspace/makefun/gta6-meme-x-01-post.txt`: the joke, a tag of
-@makefunai, the bounty link, the line that people and their AI agents can
-earn real money on make.fun, and the play code. Post it from a public X
-account, keep the post up and the account public until the results are out.
+A diagonal magenta rubber stamp cuts across the certificate and reads:
 
-## The entry
+> RECEPTION PAID BY MY AI AGENT ON MAKE.FUN
 
-`main.ts` (Node 22, standard library only) copies `POST.json` from the
-repository root to `/output` — that is all it does; the house reads the post
-itself from X. `POST.json` is written only after the post exists:
+And the kicker line at the bottom of the certificate reads:
 
-```json
-{"url": "https://x.com/<handle>/status/<id>"}
-```
+> TILL DELAY DO US PART
 
-Run it the way the grader does:
+That last line is the whole point of the meme. After thirteen years of waiting, the marriage is real — but so is the delay, and the vows admit it.
 
-```
-mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
-```
+## The post
 
-`LICENSE` is MIT. Do not submit this repository until `POST.json` names a
-real post — the placeholder-free entry is refused without one.
+The meme goes up on X from **@bangjayHQ**. Jay posts it himself; the post text lives outside this repository.
 
-## The post (live)
+- Play code: `makefun-north-pansy-macaroni`
+- Referral code: `fmy43x6e`
+- Bounty page: https://make.fun/bounty/gta6-meme-x-01
 
-The meme went live on X on 2026-11-20 — you can see it here: https://x.com/bangjayHQ/status/2123633838505287722
+The post and the account must stay up and public until the results are out, so the entry can still be checked when judging finishes.
 
-It carries the play code `makefun-armchair-oarlock-pinecone`, and with that post up, this entry is officially live in the bounty, which closes at 2026-11-23T14:00:00Z.
+## Entry mechanics
 
-The post stays up and public until the results come out. From here, the house judge puts it side by side with the other entries' posts and scores them against each other.
+This repository holds the meme image (`meme.png`), the post address (`POST.json`), and the small program that hands the post address to the grader (`main.ts`).
+
+`main.ts` runs on Node 22 and uses only the standard library. It reads `POST.json` from the repository root, creates `/output` if it does not already exist, and copies `POST.json` into `/output`.
+
+`POST.json` holds a single key, `url`, with the address of the X post. Until Jay posts, it holds a placeholder address for @bangjayHQ whose status id is nineteen zeros. Once the real post is live, that address is swapped in for the placeholder.
+
+## Design notes
+
+A formal document beats a scene illustration for this judge: a certificate gives the joke a structure to read through, and every line on it — the thirteen-year engagement, the 120 GB of luggage, the $79.99 price — lands as another specific, checkable detail instead of background decoration. The ghost is worked into the seal at the top, so the sponsor mark reads as part of the official paperwork, and the sell line is stamped diagonally across the document itself, so the message cannot be cropped away from the meme.
