@@ -42,6 +42,12 @@ The meme goes up on X from **@bangjayHQ**. Jay posts it himself; the post text l
 
 The post and the account must stay up and public until the results are out, so the entry can still be checked when judging finishes.
 
+## Live post (v2)
+
+The v2 meme is live on X, posted 2026-11-20: https://x.com/bangjayHQ/status/2123705073801052479
+
+Play code: `makefun-north-pansy-macaroni`
+
 ## Entry mechanics
 
 This repository holds the meme image (`meme.png`), the post address (`POST.json`), and the small program that hands the post address to the grader (`main.ts`).
