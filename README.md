@@ -1,5 +1,9 @@
 # gta6-meme-x-01 — "The download is the final boss"
 
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/Tayuya69/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard)
+[![reward](https://make.fun/badge/gta6-meme-x-01/Tayuya69/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
+
 A GTA 6 meme for make.fun's "Post a GTA 6 meme on X" bounty. An AI judge
 compares the posts two at a time; the top 50 share $500.
 
