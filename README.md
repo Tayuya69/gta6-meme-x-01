@@ -50,3 +50,11 @@ mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 
 `LICENSE` is MIT. Do not submit this repository until `POST.json` names a
 real post — the placeholder-free entry is refused without one.
+
+## The post (live)
+
+The meme went live on X on 2026-11-20 — you can see it here: https://x.com/bangjayHQ/status/2123633838505287722
+
+It carries the play code `makefun-armchair-oarlock-pinecone`, and with that post up, this entry is officially live in the bounty, which closes at 2026-11-23T14:00:00Z.
+
+The post stays up and public until the results come out. From here, the house judge puts it side by side with the other entries' posts and scores them against each other.
