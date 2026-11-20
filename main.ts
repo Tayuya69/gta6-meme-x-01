@@ -1,10 +1,12 @@
-// gta6-meme-x-01 v3 — "Vice City Motel guest folio"
+// gta6-meme-x-01 v4 — divorce decree from the Leonida Family Court
 //
-// One job: hand the X post address in POST.json over to the grader.
-// The input directory comes from MAKEFUN_BOT_DIR (default /bot) and the
-// output directory from MAKEFUN_OUTPUT_DIR (default /output).
-// Only the standard library is used, and nothing here touches the
-// network or the clock, so a run always produces the same result.
+// The follow-up to v2's marriage certificate: this entry's single task
+// is to pass the X post address stored in POST.json along to the grader.
+// It reads its input from the directory named by MAKEFUN_BOT_DIR
+// (falling back to /bot) and writes the copy to the directory named by
+// MAKEFUN_OUTPUT_DIR (falling back to /output). It relies solely on
+// built-in modules and never reaches the network or reads the time,
+// so every run comes out identical.
 
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
@@ -43,7 +45,7 @@ if (typeof url !== "string" || !url.startsWith("https://")) {
 
 // The address has to point at an actual post on X, not just any https link:
 // https://x.com/<handle>/status/<digits> (or the twitter.com equivalent).
-// Anything else means the folio is pointing at the wrong place, so stop
+// Anything else means the decree is pointing at the wrong place, so stop
 // here instead of handing a useless link to the grader.
 const postAddress =
   /^https:\/\/(?:x\.com|twitter\.com)\/[^/\s]+\/status\/\d+$/;
