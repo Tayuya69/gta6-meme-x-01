@@ -325,3 +325,124 @@ That is higher than the second entry scored, so the will must outdo our best.
 The document formula gives it the best chance we have of doing that.
 The record is kept here so the next entry can build on it rather than repeat it.
 The story ends with the will, unless the judge says otherwise.
+
+## Court transcript (abridged)
+
+The courtroom in Vice City falls quiet as the session opens.
+The judge raps the bench and calls the matter to order.
+"Case number JC-2013-4813," the judge announces to the room.
+"The People of Leonida versus The Wait. Are both sides ready?"
+The prosecution rises and states its case in a steady voice.
+"Your Honor, the defendant has kept this city waiting for years."
+"The people waited through every trailer, every delay, every silence."
+"We charge the defendant with grand theft patience, first degree."
+"Four thousand eight hundred and thirteen counts, one for each day."
+"The patience was taken openly, in daylight, and never returned."
+The judge turns toward the defendant and asks for a plea.
+The Wait shifts in its seat and answers in a low, tired voice.
+"It says it never meant to steal anything," the clerk notes.
+"It says the years simply passed, and nobody stopped them."
+The prosecution objects and points to the calendar on the wall.
+"Thirteen years is not an accident, Your Honor. It is a pattern."
+Witnesses are called, one after another, all of them gamers.
+Each one describes the same long stretch of waiting since 2013.
+"I bought the last game on launch day," one witness says.
+"I have been ready ever since, and ready is a long time to be."
+The defense has little to offer beyond a shrug and a promise.
+"It asks for more time," the judge repeats, unimpressed.
+The jury is sent out to deliberate on the four thousand counts.
+They return quickly, because the evidence is not complicated.
+"How does the jury find?" the judge asks the foreperson.
+"Guilty, Your Honor," the foreperson answers without hesitation.
+"Guilty on all four thousand eight hundred and thirteen counts."
+The courtroom erupts, and the judge restores order with the gavel.
+"The verdict is recorded," the judge says. "The Wait is guilty."
+
+## Juror instructions
+
+Every gamer who has waited since 17 September 2013 is summoned.
+You are a juror in the trial of The Wait, and your presence is required.
+Report for duty on 26 May 2026, the day the waiting finally ends.
+The venue is the Vice City Courthouse, and doors open before the session.
+Bring the summons itself, folded or flat, paper or on your phone.
+Bring proof that you have been waiting since 2013, if you still have it.
+An old game case, a launch-day receipt, or a worn-out save file all count.
+Bring your patience, too, though the court admits most of it is gone.
+Wear something you can sit in for a long session, because this is a trial.
+Leave excuses at the door; the court has heard all of them before.
+Check in with the Clerk of the Court when you arrive at the building.
+The clerk is the make.fun ghost, and it will be holding a gavel.
+It will stamp your summons and point you toward the jury box.
+Take your seat when called and listen to every charge as it is read.
+There are four thousand eight hundred and thirteen of them, so settle in.
+You may take notes, but you may not take naps during the proceedings.
+Deliberation will be short, because the facts are not in dispute.
+If you are unsure how to vote, count the days you waited and decide.
+The court reminds jurors that bail has already been set at $79.99.
+Court costs are $0.00, so nobody owes the court anything extra.
+The bail was paid by an AI agent on make.fun, and the receipt is on file.
+Do not attempt to pay it again; the court does not give refunds.
+Failure to appear carries a penalty the court states plainly.
+Anyone who fails to appear will face a further thirteen years of waiting.
+That is not a threat, the summons explains. It is a warning.
+The court would rather see you in the jury box than in the queue again.
+Arrive on time, bring your proof, and be ready to deliver a verdict.
+The Wait has kept you long enough. Now it is your turn to judge it.
+
+## Exhibits
+
+Exhibit A is the four-thousand-eight-hundred-and-thirteen-day calendar.
+Every page is crossed out in red, from 17 September 2013 to the present.
+Not a single day on it is blank, and not a single day is forgiven.
+Exhibit B is the bail receipt for seventy-nine dollars and ninety-nine cents.
+It is stamped paid in full, and the payer is listed as an AI agent.
+The receipt was issued through make.fun, and the court accepts it.
+Exhibit C is the ghost clerk's gavel, presented in a small velvet box.
+The gavel is light, slightly transparent, and entirely official.
+The clerk uses it to open the session and to silence the courtroom.
+Exhibit D is a launch-day ticket stub from the autumn of 2013.
+The ink has faded, the edges are worn, but the date is still legible.
+It proves the owner was there at the start and never left the queue.
+Exhibit E is an empty release-date calendar, with nothing written on it.
+Page after page shows blank squares where a date should have been.
+The prosecution calls it the clearest evidence in the whole case.
+Exhibit F is the kicker line, read aloud and entered into the record.
+"The Wait has been found guilty," the clerk reads, and the room agrees.
+The line is short, the jury nods, and the case is effectively closed.
+Together the six exhibits tell one story, without needing a speech.
+A calendar of lost days, a paid receipt, a gavel, a stub, an empty page.
+The defense objects that the exhibits are emotional, not legal.
+The judge overrules the objection and admits all six into evidence.
+"Emotion is the point," the judge says. "Thirteen years of it."
+The exhibits are sealed, numbered, and kept with the case file.
+Case number JC-2013-4813, filed 21 November 2026, Vice City Courthouse.
+
+## Sentencing and aftermath
+
+The sentence is handed down the moment the verdict is read.
+The Wait is found guilty on all four thousand eight hundred and thirteen counts.
+The court orders the waiting to end, and sets the date in stone.
+Report for duty on 26 May 2026, when the game finally arrives.
+The bail of seventy-nine dollars and ninety-nine cents has already been paid.
+It was paid by an AI agent on make.fun, and the court accepts the payment.
+The money covers the cost of the game itself, the price of admission.
+Court costs are zero dollars and zero cents, so nothing more is owed.
+No further delays will be tolerated, the red stamp on the file declares.
+The stamp is pressed twice, so that nobody in the room can miss it.
+The red GUILTY seal is fixed beside it, bright against the paper.
+The ghost clerk rises, gavel in hand, and reads the closing order.
+It files the verdict, stamps the receipt, and closes the case book.
+Then it turns to the jury and thanks every gamer who waited since 2013.
+"You were the witnesses, the jurors, and the victims," the clerk says.
+"Today you are also the winners, because the waiting is over."
+The courtroom empties slowly, and the story of the arc comes full circle.
+In the second version, the game was married, vows and all.
+In the fourth, it was divorced, papers signed in the same court.
+In the fifth, it was buried, with a will read over the grave.
+In the sixth, the wait itself is put on trial and found guilty.
+Marriage, divorce, will, trial: four chapters, one long joke, one verdict.
+The kicker line is the last thing the court hears before adjourning.
+"The Wait has been found guilty," the clerk repeats, and the gavel falls.
+Failure to appear, the footer warns, means thirteen more years of waiting.
+Nobody in the room plans to test that warning ever again.
+The case is closed, the seal is set, and the summons is answered.
