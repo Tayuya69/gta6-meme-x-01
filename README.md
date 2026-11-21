@@ -203,6 +203,25 @@ ME."
 
 Live post (v5): https://x.com/bangjayHQ/status/2124025158050693499
 
+Live post (v6): https://x.com/bangjayHQ/status/2124033973966024827
+
+## v6 — the wait goes on trial
+
+The will buried the gamer, so the next document does the only thing left:
+it prosecutes the wait itself. v6 is a jury summons from the Leonida
+Circuit Court, and every gamer who has been waiting since 17 September
+2013 is called to serve as a juror in the trial of THE WAIT. The charge
+sheet runs to 4,813 counts of grand theft patience — one for each stolen
+day — and the verdict is already in: GUILTY on all 4,813 counts. Bail
+is set at $79.99, court costs are $0.00, and jurors report for duty on
+26 May 2026, the real release date, at the Vice City Courthouse. The
+make.fun ghost serves as Clerk of the Court, gavel in hand, with a red
+GUILTY seal and a stamp noting the bail was paid by the AI agent on
+make.fun. The closing line delivers the sentence plainly: the wait has
+been found guilty. It keeps the run going — v2 married the game, v4
+divorced it, v5 buried the gamer, and v6 finally puts the delay in the
+dock.
+
 ## Why a will wins: the document formula
 
 The strongest entries in this competition are not scene illustrations.
