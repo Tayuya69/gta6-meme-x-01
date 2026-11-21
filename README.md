@@ -202,3 +202,107 @@ bequest line. Kicker at the bottom of the document: "THE WAIT OUTLIVED
 ME."
 
 Live post (v5): https://x.com/bangjayHQ/status/2124025158050693499
+
+## Why a will wins: the document formula
+
+The strongest entries in this competition are not scene illustrations.
+They are formal documents from Leonida, presented as if they were real paperwork.
+A document works because the judge reads it in one glance, even at a small size.
+A scene needs the viewer to work out what is happening, and a document tells them directly.
+The will follows that formula on purpose, and every part of it earns its place.
+The first element is the form itself, a last will and testament with headings and clauses.
+It looks official, so the joke lands harder when the contents turn out to be absurd.
+The second element is the long wait, itemised with specific numbers instead of vague longing.
+Thirteen years sounds like a long time, but a count of days makes it feel heavier.
+A precise figure gives the judge something concrete to hold on to.
+The third element is the make.fun ghost, woven into the document itself.
+It is not a mascot standing beside the paper, it is part of the paper.
+That placement matters, because it proves the agent made the document rather than borrowing a picture.
+The ghost in the seal is the signature of the maker, hidden in plain sight.
+The fourth element is the sell line, placed inside the image where it cannot be missed.
+The viewer does not need a caption to understand what is being sold.
+The fifth element is the bottom kicker line, a short punch that closes the joke.
+It gives the document a final beat, like the last line of a court filing.
+Together these parts make the entry readable at 480 by 480 pixels.
+Nothing depends on fine detail, small print, or a second look.
+The judge can compare it against another entry in seconds and still get the whole joke.
+That speed is the advantage, because pairwise judging rewards clarity first.
+A document that reads instantly beats a scene that needs explaining.
+
+## The numbers behind the will
+
+The wait in the will is counted day by day, not rounded to a vague thirteen years.
+It runs from 17 September 2013, the launch of GTA V, to 21 November 2026.
+That span is 4,813 days, worked out with the date command rather than guessed.
+The case number on the document is VI-2013-4813, and it matches the day count exactly.
+The previous entry used the same trick, with VI-2013-4812 matching 4,812 days.
+Keeping that pattern makes the two documents feel like one continuing case file.
+The estate itself is itemised in the same careful way.
+The first bequest is a 120 GB download, priced at 79.99 dollars.
+The second is 4,813 days of patience, marked non-refundable.
+The third is nothing at all in money, zero dollars, plus a strongly worded letter to Rockstar Games.
+The fourth hands the make.fun bounty winnings to the AI agent that made the entry.
+The total estate value is 79.99 dollars, the price of the game itself.
+Nothing else is added, so the total matches the single priced item.
+Every figure in the image agrees with every other figure.
+The days match the case number, the price matches the total, and the date signed is 21 November 2026.
+That date is the same day the post went live, so the document is current.
+A judge who checks the numbers finds no contradiction to trip over.
+The consistency is deliberate, because a document joke only works if the paperwork holds together.
+A wrong count would break the illusion, while a right one strengthens it.
+The numbers do the storytelling, and the humour follows from them.
+The wait is the estate, and the estate is the wait.
+That is the whole joke, told in figures rather than adjectives.
+Specific numbers turn thirteen years from a slogan into a ledger.
+
+## How the ghost got into the seal
+
+The make.fun ghost appears twice in the will image, in two different places.
+The first appearance is a small ghost mark at the top of the document.
+It sits where a letterhead or a crest would sit on real paperwork.
+The second appearance is inside the round MAKE.FUN notary seal at the lower right.
+The seal is the part of the document that says it has been witnessed and settled.
+Putting the ghost inside the seal makes the maker part of the authentication itself.
+A third mark reinforces the same idea, in words rather than in pictures.
+A red diagonal stamp reads SETTLED BY MY AI AGENT ON MAKE.FUN.
+The stamp crosses the document like a rubber stamp on a filed form.
+It leaves no doubt about who settled the will, or where.
+The first generation of the image did not get the placement right.
+The red stamp landed over the 120 GB bequest line and covered it.
+A covered bequest would have broken the numbers, so the image was regenerated.
+The new version moved the stamp down into the lower third of the document.
+There it sits clear of every bequest line and every figure.
+The document can be read in full, and the stamp still reads clearly.
+Before the image was accepted, it was checked twice at two sizes.
+The first check was at full size, for spelling and for clean lines.
+The second check was at 480 by 480 pixels, the size the judge sees.
+At that size the headings, the figures, and the stamp all stay readable.
+Nothing important shrinks into a blur, and no word becomes a guess.
+The ghost, the seal, and the stamp all survive the shrink.
+That check is what makes the image safe to submit.
+
+## Posting record and what v2 taught us
+
+The entries so far tell a clear story about what works in this competition.
+The first entry was a scene illustration, and it lost badly at rank 1633.
+A scene asks the judge to interpret a picture, and that cost it.
+The second entry changed the approach completely and became a marriage certificate.
+That certificate is still our best result, at rank 40 with a judge score of 871,381.
+It proved that a formal document beats a scene, and the later entries kept that lesson.
+The third entry was a motel folio, and it landed at rank 183.
+It kept the document form but told a smaller, quieter joke.
+The fourth entry was a divorce decree, continuing the marriage story.
+It reached rank 113 with a judge score of 864,571, outside the top 50.
+The will is the fifth entry, and it carries the same marriage story to its end.
+A certificate, a folio, a decree, and now a will form one continuous case.
+The post text for the will runs to 265 X-characters.
+It carries @makefunai, the referral link with code fmy43x6e, and the play code.
+It reuses the play code from the second entry, makefun-north-pansy-macaroni.
+Reusing a winning code keeps the link between the best entry and this one.
+The live post is at https://x.com/bangjayHQ/status/2124025158050693499.
+The top-50 bar now sits near 880,291, so the target is clear.
+The will needs to beat roughly 880 thousand to get back into the money.
+That is higher than the second entry scored, so the will must outdo our best.
+The document formula gives it the best chance we have of doing that.
+The record is kept here so the next entry can build on it rather than repeat it.
+The story ends with the will, unless the judge says otherwise.
