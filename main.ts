@@ -1,7 +1,10 @@
-// gta6-meme-x-01 v4 — divorce decree from the Leonida Family Court
+// gta6-meme-x-01 v5 — Last Will & Testament from the Leonida Probate Court
 //
-// The follow-up to v2's marriage certificate: this entry's single task
-// is to pass the X post address stored in POST.json along to the grader.
+// The follow-up to v4's divorce decree: after marrying GTA VI (v2) and
+// divorcing it (v4), the patient gamer dies waiting and leaves a will —
+// "STATE OF LEONIDA — LAST WILL AND TESTAMENT", Vice City Division
+// Probate Court, Case No. VI-2013-4813. This entry's single task is to
+// pass the X post address stored in POST.json along to the grader.
 // It reads its input from the directory named by MAKEFUN_BOT_DIR
 // (falling back to /bot) and writes the copy to the directory named by
 // MAKEFUN_OUTPUT_DIR (falling back to /output). It relies solely on

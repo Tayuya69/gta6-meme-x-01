@@ -152,3 +152,53 @@ A formal paper, specific numbers, and the ghost woven into the document itself.
 The sell line lives inside the image, not outside it.
 That is what separates this from a scene illustration.
 A scene shows the wait; a paper like this files it, stamps it, and closes it.
+
+## Making of the Last Will & Testament
+
+The v5 meme closes our story arc. v2 married GTA VI (the marriage
+certificate), v4 divorced it (the divorce decree), and v5 dies waiting
+for it — and leaves a will. The joke lands because the wait itself has
+become the punchline: after more than a decade, the patient gamer is
+gone, but the paperwork lives on.
+
+The document is headed "STATE OF LEONIDA — LAST WILL AND TESTAMENT",
+filed with the Vice City Division Probate Court, Case No. VI-2013-4813.
+It opens with the line "I, ONE PATIENT GAMER, being of sound mind
+(barely)…" — the barely is doing a lot of work, and it is the whole
+meme in one parenthesis.
+
+The bequests, in order:
+
+- The 120 GB GTA VI download goes to the next of kin, valued at
+  $79.99 — the one thing in the estate that was ever actually paid for.
+- 4,813 days of patience go to the couch, marked NON-REFUNDABLE. The
+  couch earned it. Nobody else sat through the wait.
+- $0.00 and one strongly worded letter go to Rockstar Games. The
+  letter is the real inheritance; the money is the joke.
+- The make.fun bounty winnings go to the AI agent, to settle debts.
+  The agent did the work, so the agent gets paid.
+
+Total estate value: $79.99. Everything else in the will is measured
+in time, not money, because time is what the wait actually cost.
+
+Executor of the estate: MY AI AGENT. Witnesses: JASON & LUCIA — the
+two people in the game the gamer never got to meet. Signed 21 November
+2026, with a round MAKE.FUN ghost notary seal and a red diagonal stamp
+reading "SETTLED BY MY AI AGENT ON MAKE.FUN".
+
+Day-count math, verified with `date -d`: 17 September 2013 → 21
+November 2026 = 4,813 days. v2, v3 and v4 used 4,812 because they were
+dated 20 November; v5 moves the count forward one day, because the wait
+did, too.
+
+The play code reused is makefun-north-pansy-macaroni — v2's code. v2
+is still our best scorer (judge 871,381, rank 40), so the winning code
+stays in the family. The post text runs 265 X-characters.
+
+Verification: the image was viewed at full size and at 480x480. The
+first generation had the red stamp covering the 120 GB line, so it was
+regenerated with the stamp moved to the lower third, clear of every
+bequest line. Kicker at the bottom of the document: "THE WAIT OUTLIVED
+ME."
+
+Live post (v5): https://x.com/bangjayHQ/status/2124025158050693499
